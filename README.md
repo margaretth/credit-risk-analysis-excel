@@ -4,6 +4,11 @@ This project analyzes loan data to understand **credit risk patterns**. Using Ex
 
 ---
 
+## Dataset
+The dataset used in this project can be accessed via [Kaggle](https://www.kaggle.com/datasets/ranadeep/credit-risk-dataset).
+
+---
+
 ## 🎯 Business Problem  
 Financial institutions struggle to spot **high-risk borrowers**. High defaults reduce profits, while rejecting too many loans limits revenue.  
 
@@ -16,6 +21,18 @@ Financial institutions struggle to spot **high-risk borrowers**. High defaults r
 - Handled outliers  
 - Converted `loan_status` into binary labels (0 = Safe, 1 = Risky)  
 - Selected relevant features for analysis  
+
+---
+
+## Processed Excel File
+The Excel file contains the following:
+- **Original Dataset**: Raw data used for analysis
+- **Working Sheet**: Data cleaning and preprocessing steps
+- **Pivot Table**: Summary statistics and aggregations
+- **Dashboard**: Visual representation of insights
+
+Due to file size limitations, the Excel file is stored in Google Drive.  
+👉 [Download the Excel file here]((https://docs.google.com/spreadsheets/d/1Bv_bLKPHcqRcp8QxNCM56IGC6jtEUTRa/edit?usp=sharing&ouid=105056908252868448290&rtpof=true&sd=true))
 
 ---
 
