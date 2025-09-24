@@ -32,7 +32,7 @@ The Excel file contains the following:
 - **Dashboard**: Visual representation of insights
 
 Due to file size limitations, the Excel file is stored in Google Drive.  
-👉 [Download the Excel file here]((https://docs.google.com/spreadsheets/d/1Bv_bLKPHcqRcp8QxNCM56IGC6jtEUTRa/edit?usp=sharing&ouid=105056908252868448290&rtpof=true&sd=true))
+👉 [Download the Excel file here](https://docs.google.com/spreadsheets/d/1Bv_bLKPHcqRcp8QxNCM56IGC6jtEUTRa/edit?usp=sharing&ouid=105056908252868448290&rtpof=true&sd=true)
 
 ---
 
